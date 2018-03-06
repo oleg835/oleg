@@ -1,0 +1,8 @@
+{
+  "name": "Oleg",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/oleg835/oleg.git",
+  "logo": "https://damp-wildwood-30923.herokuapp.com/",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
